@@ -1,5 +1,3 @@
-Perfeito! Aqui está uma versão **pronta para colar no README.md** com badges e estilo GitHub profissional:
-
 
 # 📨 Detecção de Spam com Python e Naive Bayes
 
