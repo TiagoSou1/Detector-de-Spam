@@ -20,7 +20,7 @@ O objetivo é identificar automaticamente mensagens de spam com alta precisão e
 ## Estrutura do Projeto
 
 
-
+```
 DETECAO_DE_SPAM/
 ├── data/
 │   └── spam.csv            # Dataset com mensagens de spam/ham
@@ -28,7 +28,7 @@ DETECAO_DE_SPAM/
 │   └── main.py             # Script principal
 ├── requirements.txt        # Dependências do projeto
 └── README.md               # Documentação
-
+```
 
 
 ---
